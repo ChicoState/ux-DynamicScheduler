@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
-# !!!Project Name!!!
+# UX - Dynamic Scheduler
 
 !!!Brief introduction to the project and the problem it is intended to solve!!!
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* [David Jacobo](https://usabilityengineering.github.io/ux-journal-djacobo3/)
+* [Sarah Blotcky](https://usabilityengineering.github.io/ux-journal-scblotcky/)
+* [Ismael Kane](https://usabilityengineering.github.io/ux-journal-Ismaelkane/)
 
 # User-Centered Design Artifacts
  
