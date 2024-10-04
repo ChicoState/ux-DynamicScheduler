@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dynamic Scheduler is a real-time adjustable schedule that allows users to add items with varying and unique priority, availability, and expected times of completions. Dynamic Scheduler helps individuals optimize their daily activities, making it easier to stay organized and focused on what matters most. With an intuitive interface and customizable features, this app aims to enhance productivity and reduce the stress that comes with traditional scheduling methods.
+Dynamic Scheduler is a real-time adjustable schedule that allows users to add items with varying and unique priority, availability, and expected times of completions. Dynamic Scheduler helps individuals optimize their daily activities, making it easier to stay organized and focused on what matters most. With an intuitive interface and customizable features, this app aims to enhance productivity and reduce the stress that comes with traditional scheduling methods. Throughout this phase, we focused on identifying our competitors to study any strengths and weaknesses they may have. With this, we can create our own potential users and any scenarios that need to be taken account for during the development of our software.
 
 ## Methods
 
