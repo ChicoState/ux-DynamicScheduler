@@ -20,7 +20,7 @@ Personas and scenarios allowed the UX team insight as to why customers would cho
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The insights gained from Phase 1 of building the Dynamic Scheduler highlight certain areas we can differentiate and improve the Dynamic Scheduler from its competitors. Our competitive analysis revealed that Dynamic Scheduler has a broad appeal to a diverse demographic of people who are at different stages of their lives, which includes professionals, students, parents, etc. These people often juggle multiple responsibilities and would benefit from tools that provide flexibility in managing their schedules. This highlights a solution the dynamic scheduler can provide to these people's busy lives as it will have features that allow for real-time task adjustments as well as cross-schedule management. By addressing these needs, the Dynamic Scheduler will be well-positioned to meet the demands of a wide range of individuals. Our findings from the heuristic evaluation revealed that our competitors were lacking in areas such as “recognition rather than recall”, “flexibility and efficiency of use”, and “Help users recognize, diagnose, and recover from errors”. These findings show that by focusing on greater flexibility, better recall features, and enhanced help resources, the Dynamic Scheduler can offer a more complete and friendlier user experience compared to its competitors.
 
 ## Caveats
 
