@@ -12,7 +12,11 @@ The next step was heuristic evaluation of a specific product. This evaluation in
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+After performing a competitive analysis, our UX team found that the demographic of individuals who may benefit most from our dynamic scheduling app spans a wide range, including professionals, students, and parents who need to organize both their own schedules and those of their children or employees.
+
+After performing a heuristic evaluation on “Structured - Daily Planner”, we found that the app is a comprehensive scheduling tool that meets all the needs we had in mind for our dynamic scheduler. Rather than focusing on improving its existing features, we intend to draw inspiration from its design and functionality to enhance our own app. In the categories of user control and freedom, consistency and standards, and error prevention, it ranked 10’s. For aesthetic and minimalist design and help and documentation, it ranked 9’s. For flexibility and efficiency of use and recognition, it ranked 8’s. With these scores, the UX team found that “Structured - Daily Planner” does an excellent job in every category including functionality as well as aesthetics. 
+
+Personas and scenarios allowed the UX team insight as to why customers would choose our dynamic scheduling app, helping us understand the features they would utilize and the usability factors that are crucial to their experience. This process supported findings from other analysis methods, highlighting that most of our users will use our app as a tool to prioritize their schedules effectively and accurately.
 
 ## Conclusions
 
