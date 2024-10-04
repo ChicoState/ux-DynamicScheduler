@@ -24,4 +24,4 @@ Personas and scenarios allowed the UX team insight as to why customers would cho
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our biggest caveat during this phase (and potentially the following phases) is having no access to actual user feedback. Most of our research stems from analyzing softwares of our competitors which allowed us to create personas or “potential users” along with scenarios that our software has to work with.
