@@ -8,6 +8,7 @@
 **- Goals:**
 - Build a tentative schedule for his workplace tasks as well as accommodate his daughter’s extracurricular activities. Some are just practices, others are recitals.
 - Set up some sort of reminder to tell him he needs to be somewhere soon.
+
   
 **Persona 2 - Eric**
 
