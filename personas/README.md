@@ -8,7 +8,6 @@
 **- Goals:**
 - Build a tentative schedule for his workplace tasks as well as accommodate his daughter’s extracurricular activities. Some are just practices, others are recitals.
 - Set up some sort of reminder to tell him he needs to be somewhere soon.
-
   
 **Persona 2 - Eric**
 
@@ -19,6 +18,7 @@
 **- Goals:**
 
 - Create a schedule that allows Eric to juggle both his academics and sports but prioritize one depending on the time of the year.
+  
 **Persona 3 - Bob**
   
 ![Bob](Bob.jpeg)
