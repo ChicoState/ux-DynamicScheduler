@@ -7,6 +7,7 @@ Dynamic Scheduler is a real-time adjustable schedule that allows users to add it
 ## Methods
 
 During this phase, we used two research methods in a consecutive order. We began with competitive analysis of other available softwares by rating them on the following categories: strengths, weaknesses, quality level (low to high), price/cost, and platform availability. We selected three separate products to investigate. By organizing aspects of different products this way, we can discover key areas of improvement and areas that we should follow. This also allowed us to start gathering ideas for our personas.
+
 The next step was heuristic evaluation of a specific product. This evaluation involves identifying the main goals we want to achieve with the application: adding and deleting tasks/events, specifying time of day of an event, and having a visual calendar. We chose “Structured - Daily Planner” due to how quickly it can be accessed without going through an account creation process. The heuristics we evaluated will be listed under our findings along with our agreed ratings from a scale of 1 (poor) to 10 (excellent).
 
 ## Findings
