@@ -1,2 +1,2 @@
 # Personas & Scenarios
-![PersonasAndScenarios](Personas%20and%20Scenarios.pdf)
+![Personas And Scenarios](Personas_and_Scenarios.pdf)
