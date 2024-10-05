@@ -1,6 +1,6 @@
 # UX - Dynamic Scheduler
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Dynamic Scheduler is a real-time adjustable schedule that allows users to add items with varying and unique priority, availability, and expected times of completion. Dynamic Scheduler helps individuals optimize their daily activities, making it easier to stay organized and focused on what matters most. With an intuitive interface and customizable features, this app aims to enhance productivity and reduce the stress that comes with traditional scheduling methods.
 
 ## UX Team Members
 
@@ -10,8 +10,6 @@
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
