@@ -31,10 +31,7 @@ Dynamic Scheduler is a real-time adjustable schedule that allows users to add it
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* The most important things we learned from our cognitive walkthroughs were the flaws within our design where multiple pages had no way no navigate back to a previous page. We could improve on the navigation of our app. The consequential conclusion we got from our cognitive walkthroughs tells us is to improve user experience, we must improve our application's navigation.
 
 [Full phase II report](phaseII/)
 
