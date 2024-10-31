@@ -31,7 +31,12 @@ Dynamic Scheduler is a real-time adjustable schedule that allows users to add it
 
 **Executive Summary**
 
-* The most important things we learned from our cognitive walkthroughs were the flaws within our design where multiple pages had no way no navigate back to a previous page. We could improve on the navigation of our app. The consequential conclusion we got from our cognitive walkthroughs tells us is to improve user experience, we must improve our application's navigation.
+* Cognitive walkthroughs revealed flaws within our design where multiple pages had no way to navigate back to a previous page.
+* This consequential feedback tells us that we must improve our application's navigation in order to improve the user experience and workflow.
+* Informal feedback showed an interest in varying new features to be added.
+* Software engineering students not only suggested more customization of tasks, but they also wanted connectivity to other applications (Google Calendar) and to other users.
+* With these gathered findings, we will focus on adding seamless navigation to the layout and look into adding the user-suggested features to leave our users with a convenient and familiar experience on the Dynamic Scheduler app.
+
 
 [Full phase II report](phaseII/)
 
