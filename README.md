@@ -4,6 +4,7 @@ Dynamic Scheduler is a real-time adjustable schedule that allows users to add it
 
 ## UX Team Members
 
+The UX team worked equally and collaboratively on every aspect of the project, maintaining effective levels of communication throughout the entire term.
 * [David Jacobo](https://usabilityengineering.github.io/ux-journal-djacobo3/)
 * [Sarah Blotcky](https://usabilityengineering.github.io/ux-journal-scblotcky/)
 * [Ismael Kane](https://usabilityengineering.github.io/ux-journal-Ismaelkane/)
@@ -13,7 +14,7 @@ Dynamic Scheduler is a real-time adjustable schedule that allows users to add it
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/RIZoQRW0HxbgOTQdxioPZm/wireframe?node-id=287-4402&t=mXptN0pHW6y5c4do-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -44,9 +45,10 @@ Dynamic Scheduler is a real-time adjustable schedule that allows users to add it
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* After earning our CITI certificates and creating the proper forms, we conducted and recorded assessments of real users.
+* Users provided mostly high ratings on ease of usage in completing tasks.
+* Users also provided qualitative feedback related to adding items to the calendar: noting that "Add Event" should be on the main page rather than in the sub-menu.
+* When asked about how they felt about the website prototype, users stated that it was overall easy to navigate, well-organized, and familiar to other calendar apps.
+* With all of the feedback compilied, we can make that simple notable change and claim we were successful in making an effective app.
 
 [Full phase III report](phaseIII/)
